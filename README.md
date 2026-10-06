@@ -2,6 +2,6 @@
 
 practice git basic
 
-# Hellow world
+# Hello world
 
 let's learn GitHub
